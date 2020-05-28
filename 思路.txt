@@ -1,0 +1,14 @@
+m=6
+k="cipher"
+k_num=(2,8,15,7,4,17)
+
+x="hellwordwhoamilove"
+分组：hellwo rdwhoa milove
+转为数字串，遍历相加mod26取结果
+
+解密，获取加密串，分组
+a+y/26=n....x
+n26+x-y=a
+a=n26+x-y
+
+
